@@ -10,9 +10,16 @@ Financial fraud detection faces a core challenge: fraud is extremely rare (~0.13
 - A SHAP explainability layer that turns every prediction into a plain-language explanation of the contributing factors
 - A live dashboard where a user can enter transaction details and get an instant, explained fraud score
 
-## Screenshot
+## Screenshots
 
-![Fraud checker dashboard](docs/screenshot-frontend.png)
+**Transaction checker**
+![Fraud checker dashboard](docs/dashboard.png)
+
+**Analytics — fraud trend and risk distribution**
+![Analytics view 1](docs/analytics-01.png)
+
+**Analytics — transaction type breakdown**
+![Analytics view 2](docs/analytics-02.png)
 
 ## Architecture
 
