@@ -1,13 +1,31 @@
+# Virtual environments
 venv/
 .venv/
 backend/venv/
 frontend/venv/
+
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+
+# Secrets
 .env
 secrets.toml
 .streamlit/secrets.toml
-.ipynb_checkpoints/
-.DS_Store
+
+# Model artifacts (hosted on Hugging Face, not committed here)
 *.pkl
+
+# Data files
 *.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Pytest cache
+.pytest_cache/
