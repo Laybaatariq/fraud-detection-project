@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+huggingface_hub
+joblib
+xgboost
+shap
+pandas
+numpy
+pytest
+httpx
