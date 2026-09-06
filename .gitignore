@@ -1,0 +1,13 @@
+venv/
+.venv/
+backend/venv/
+frontend/venv/
+__pycache__/
+*.pyc
+.env
+secrets.toml
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+.DS_Store
+*.pkl
+*.csv
