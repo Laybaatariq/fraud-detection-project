@@ -33,8 +33,8 @@ st.markdown("""
         border-radius: 12px;
         padding: 1.5rem;
         margin-top: 1rem;
-        background-color: #ff8c00;
-        border: 1px solid #d2691e;
+        background-color: #90ee90;
+        border: 1px solid #4caf50;
     }
     .risk-label {
         font-size: 0.85rem;
